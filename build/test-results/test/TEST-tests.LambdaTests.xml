@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LambdaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-17T17:37:19" hostname="DESKTOP-OSL10U6" time="0.79">
+  <properties/>
+  <testcase name="checkIssueTest()" classname="tests.LambdaTests" time="0.79"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
